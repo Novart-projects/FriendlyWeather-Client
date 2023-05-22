@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Friendly Weather</string>
+    <string name="todo">TODO</string>
+    <string name="riba">Riba</string>
+    <string name="windspeed">windSpeed</string>
+    <string name="humidity">humidity</string>
+    <string name="temp">Temp</string>
+    <string name="f">f</string>
+    <string name="send">send</string>
+    <string name="pow_of_warm_clothes">Насколько тепло вы любите одеваться</string>
+    <string name="how_warm_do_you_like_to_dress">How warm do you like to dress?</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="Title">Hi, before you can start we need to ask you few simple questions</string>
+    <string name="go">go</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="warning">warning</string>
+</resources>
